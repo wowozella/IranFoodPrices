@@ -12,3 +12,5 @@ df = pd.DataFrame(data = np.random.randn(5,4),
 print(df)
 
 My_data = pd.read_csv('Iran_food_prices.csv')
+
+print(My_Data)
